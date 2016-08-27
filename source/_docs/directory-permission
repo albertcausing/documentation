@@ -1,0 +1,33 @@
+---
+title: Directory Permission Matrix
+description: Answers to commonly asked questions about Git, SFTP, Write Permission, and Symlink.
+categories: [developing]
+tags: [code]
+keywords: git, sftp, core, permission, drupal, wordpress
+---
+
+<table>
+  <thead>
+     <tr>
+    <th colspan="6">Directory Permission Matrix</th>
+  </tr>
+  <tr>
+    <td colspan="3">Directory Paths</td>
+    <td colspan="3">Environment's Name</td>
+  </tr>
+  <tr>
+    <td rowspan="2">Container</td>
+    <td rowspan="2">Drupal</td>
+    <td rowspan="2">Wordpress</td>
+    <td colspan="2">Dev &amp; Multi-Dev</td>
+    <td>Test &amp; Live</td>
+  </tr>
+  <tr>
+    <td>SFTP Mode</td>
+    <td>Git Mode</td>
+    <td>Only Git Mode</td>
+  </tr>
+  </thead>
+  <tbody>
+  </tbody>
+</table>  
